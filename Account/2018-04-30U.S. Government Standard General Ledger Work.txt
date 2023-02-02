@@ -1,0 +1,240 @@
+100000; Assets; N/A
+200000; Liabilities; N/A
+300000; Net Position; N/A
+400000; Budgetary; N/A
+500000; Revenue and Other Financing Sources; N/A
+600000; Expenses; N/A
+700000; Gains/Losses/Miscellaneous Items; N/A
+800000; Memorandum; N/A
+162000; Investments in Securities Other Than the Bureau of the Public Debt Securities; Debit
+162100; Discount on Securities Other Than the Bureau of the Public Debt Securities; Credit
+162200; Premium on Securities Other Than the Bureau of the Public Debt Securities; Debit
+162300; Amortization of Discount and Premium on Securities Other Than the Bureau of the Public Debt Securities; Debit
+163000; Investments in U.S. Treasury Zero Coupon Bonds Issued by the Bureau of the Public Debt; Debit
+163100; Discount on U.S. Treasury Zero Coupon Bonds Issued by the Bureau of the Public Debt; Credit
+163300; Amortization of Discount on U.S. Treasury Zero Coupon Bonds Issued by the Bureau of the Public Debt; Debit
+164200; Preferred Stock Accounted for Under the Provisions of the Federal Credit Reform Act; Debit
+164300; Allowance for Subsidy - Preferred Stock Accounted for Under the Provisions of the Federal Credit Reform Act; Credit
+164400; Common Stock Accounted for Under the Provisions of the Federal Credit Reform Act; Debit
+164500; Allowance for Subsidy - Common Stock Accounted for Under the Provisions of the Federal Credit Reform Act; Credit
+164600; Discount on Securities Account for Under the Provisions of the Federal Credit Reform Act; Credit
+164700; Premium on Securities Accounted for Under the Provisions of the Federal Credit Reform Act; Debit
+165000; Preferred Stock in Federal Government Sponsored Enterprise; Debit
+165100; Market Adjustment - Senior Preferred Stock in Federal Government Sponsored Enterprise; Debit
+165200; Common Stock Warrants in Federal Government Sponsored Enterprise; Debit
+165300; Market Adjustment - Common Stock Warrants in Federal Government Sponsored Enterprise; Debit
+167000; Foreign Investments; Debit
+167100; Discount on Foreign Investments; Credit
+167200; Premium on Foreign Investments; Debit
+167900; Foreign Exchange Rate Revalue Adjustments - Investments; Debit
+169000; Other Investments; Debit
+171100; Land and Land Rights; Debit
+171200; Improvements to Land; Debit
+171900; Accumulated Depreciation on Improvements to Land; Credit
+172000; Construction-in-Progress; Debit
+173000; Buildings, Improvements, and Renovations; Debit
+173900; Accumulated Depreciation on Buildings, Improvements, and Renovations; Credit
+174000; Other Structures and Facilities; Debit
+174900; Accumulated Depreciation on Other Structures and Facilities; Credit
+175000; Equipment; Debit
+175900; Accumulated Depreciation on Equipment; Credit
+181000; Assets Under Capital Lease; Debit
+181900; Accumulated Depreciation on Assets Under Capital Lease; Credit
+182000; Leasehold Improvements; Debit
+182900; Accumulated Amortization on Leasehold Improvements; Credit
+183000; Internal-Use Software; Debit
+183200; Internal-Use Software in Development; Debit
+183900; Accumulated Amortization on Internal-Use Software; Credit
+184000; Other Natural Resources; Debit
+184900; Allowance for Depletion; Credit
+189000; Other General Property, Plant, and Equipment; Debit
+189900; Accumulated Depreciation on Other General Property, Plant, and Equipment; Credit
+192100; Receivable From Appropriations; Debit
+192300; Contingent Receivable for Capital Transfers; Debit
+192500; Capital Transfers Receivable; Debit
+198000; Asset for Agency's Custodial and Non-Entity Liabilities; Debit
+199000; Other Assets; Debit
+199500; General Property, Plant, and Equipment Permanently Removed but Not Yet Disposed; Debit
+199900; Central Accounting Control Account; Debit
+201000; Liability for Fund Balance With Treasury; Credit
+211000; Accounts Payable; Credit
+211200; Accounts Payable for Federal Government Sponsored Enterprise; Credit
+212000; Disbursements in Transit; Credit
+213000; Contract Holdbacks; Credit
+214000; Accrued Interest Payable - Not Otherwise Classified; Credit
+214100; Accrued Interest Payable - Debt; Credit
+215000; Payable for Transfers of Currently Invested Balances; Credit
+215500; Expenditure Transfers Payable; Credit
+216000; Entitlement Benefits Due and Payable; Credit
+217000; Subsidy Payable to the Financing Account; Credit
+218000; Loan Guarantee Liability; Credit
+219000; Other Liabilities With Related Budgetary Obligations; Credit
+219100; Employee Health Care Liability Incurred but Not Reported; Credit
+219200; Special Drawing Right (SDR) Certificates Issued to Federal Reserve Banks; Credit
+219300; Allocation of Special Drawing Rights (SDRs); Credit
+221000; Accrued Funded Payroll and Leave; Credit
+221100; Withholdings Payable; Credit
+221300; Employer Contributions and Payroll Taxes Payable; Credit
+221500; Other Post Employment Benefits Due and Payable; Credit
+221600; Pension Benefits Due and Payable to Beneficiaries; Credit
+221700; Benefit Premiums Payable to Carriers; Credit
+221800; Life Insurance Benefits Due and Payable to Beneficiaries; Credit
+222000; Unfunded Leave; Credit
+222500; Unfunded FECA Liability; Credit
+229000; Other Unfunded Employment Related Liability; Credit
+231000; Liability for Advances and Prepayments; Credit
+232000; Other Deferred Revenue; Credit
+240000; Liability for Nonfiduciary Deposit Funds and Undeposited Collections; Credit
+241000; Liability for Clearing Accounts; Credit
+251000; Principal Payable to the Bureau of the Public Debt; Credit
+251100; Capitalized Loan Interest Payable -Non-Credit Reform; Credit
+252000; Principal Payable to the Federal Financing Bank; Credit
+253000; Securities Issued by Federal Agencies Under General and Special Financing Authority; Credit
+253100; Discount on Securities Issued by Federal Agencies Under General and Special Financing Authority; Debit
+253200; Premium on Securities Issued by Federal Agencies Under General and Special Financing Authority; Credit
+253300; Amortization of Discount on Securities Issued by Federal Agencies Under General and Special Financing Authority; Debit
+253400; Amortization of Premium on Securities Issued by Federal Agencies Under General and Special Financing Authority; Debit
+254000; Participation Certificates; Credit
+259000; Other Debt; Credit
+261000; Actuarial Pension Liability; Credit
+262000; Actuarial Health Insurance Liability; Credit
+263000; Actuarial Life Insurance Liability; Credit
+265000; Actuarial FECA Liability; Credit
+266000; Actuarial Liabilities for Federal Insurance and Guarantee Programs; Credit
+267000; Actuarial Liabilities for Treasury - Managed Benefit Programs; Credit
+269000; Other Actuarial Liabilities; Credit
+291000; Prior Liens Outstanding on Acquired Collateral; Credit
+292000; Contingent Liabilities; Credit
+292200; Contingent Liabilities - Federal Government Sponsored Enterprise; Credit
+292300; Contingent Liability for Capital Transfers; Credit
+294000; Capital Lease Liability; Credit
+296000; Accounts Payable From Canceled Appropriations; Credit
+297000; Liability for Capital Transfers; Credit
+298000; Custodial Liability; Credit
+298500; Liability for Non-Entity Assets Not Reported on the Statement of Custodial Activity; Credit
+299000; Other Liabilities Without Related Budgetary Obligations; Credit
+299500; Estimated Cleanup Cost Liability; Credit
+310000; Unexpended Appropriations - Cumulative; Credit
+310100; Unexpended Appropriations - Appropriations Received; Credit
+310200; Unexpended Appropriations - Transfers-In; Credit
+310300; Unexpended Appropriations - Transfers-Out; Debit
+310500; Unexpended Appropriations - Prior Period Adjustments Due to Corrections of Errors - Years Preceding the Prior Year; Debit
+310600; Unexpended Appropriations - Adjustments; Debit 
+310700; Unexpended Appropriations - Used; Debit
+310800; Unexpended Appropriations - Prior - Period Adjustments Due to Corrections of Errors; Debit
+310900; Unexpended Appropriations - Prior - Period Adjustments Due to Changes in Accounting Principles; Debit
+320000; Appropriations Outstanding - Cumulative; Debit
+320100; Appropriations Outstanding - Warrants Issued; Debit
+320600; Appropriations Outstanding - Adjustments; Credit
+331000; Cumulative Results of Operations; Credit
+340000; Fiduciary Net Assets; Credit
+341000; Contributions to Fiduciary Net Assets; Credit
+342000; Withdrawals or Distributions of Fiduciary Net Assets; Debit
+403200; Estimated Indefinite Contract Authority; Debit
+403400; Anticipated Adjustments to Contract Authority; Credit
+404200; Estimated Indefinite Borrowing Authority; Debit
+404400; Anticipated Reductions to Borrowing Authority; Credit
+404700; Anticipated Transfers to the General Fund of the Treasury-Current-Year Authority; Credit
+404800; Anticipated Transfers to the General Fund of the Treasury-Prior-Year Balances; Credit
+406000; Anticipated Collections From Non-Federal Sources; Debit
+407000; Anticipated Collections From Federal Sources; Debit
+408100; Amounts Appropriated From a Specific Treasury-Managed Trust Fund TAFS-Receivable-Transferred; Credit
+408200; Allocations of Realized Authority -To Be Transferred From Invested Balances - Transferred; Credit
+408300; Transfers -Current-Year Authority -Receivable -Transferred; Credit
+411100; Debt Liquidation Appropriations; Debit
+411200; Liquidation of Deficiency - Appropriations; Debit
+411300; Appropriated Receipts Derived from Unavailable Trust or Special Fund Receipts; Debit
+411400; Appropriated Receipts Derived from Available Trust or Special Fund Receipts; Debit
+411500; Loan Subsidy Appropriation; Debit
+411600; Debt Forgiveness Appropriation; Debit
+411700; Loan Administrative Expense Appropriation; Debit
+411800; Reestimated Loan Subsidy Appropriation; Debit
+411900; Other Appropriations Realized; Debit
+412000; Anticipated Indefinite Appropriations; Debit
+412100; Amounts Appropriated From Specific Invested TAFS Reclassified -Receivable-Cancellation; Debit
+412200; Authority Adjusted for Interest on the Bureau of the Public Debt Securities; Debit
+412300; Amounts Appropriated From Specific Invested TAFS Reclassified -Receivable-Temporary Reduction; Debit
+412400; Amounts Appropriated From Specific Invested TAFS Reclassified -Payable-Temporary Reduction/Cancellation; Credit
+412500; Loan Modification Adjustment Transfer Appropriation; Debit
+412600; Amounts Appropriated From Specific Invested TAFS - Receivable; Debit
+412700; Amounts Appropriated From Specific Invested TAFS - Payable; Credit
+412800; Amounts Appropriated From Specific Invested TAFS - Transfers-In; Debit
+412900; Amounts Appropriated From Specific Invested TAFS - Transfers-Out; Credit
+413000; Appropriation To Liquidate Contract Authority Withdrawn; Credit
+413100; Current - Year Contract Authority Realized; Debit
+413200; Substitution of Contract Authority; Credit 
+413300; Decreases to Indefinite Contract Authority; Credit
+413400; Contract Authority Withdrawn; Credit 
+413500; Contract Authority Liquidated; Credit
+413600; Contract Authority To Be Liquidated by Trust Funds; Credit
+413700; Transfers of Contract Authority - Allocation; Debit
+413800; Appropriation To Liquidate Contract Authority; Debit
+413900; Contract Authority Carried Forward; Debit
+414000; Substitution of Borrowing Authority; Credit
+414100; Current - Year Borrowing Authority Realized; Debit
+414200; Actual Repayment of Borrowing Authority Converted to Cash; Credit
+414300; Current-Year Decreases to Indefinite Borrowing Authority Realized; Credit
+414400; Borrowing Authority Withdrawn; Credit
+414500; Borrowing Authority Converted to Cash; Credit
+414600; Actual Repayments of Debt, Current-Year Authority; Credit
+414700; Actual Repayments of Debt, Prior-Year Balances; Credit
+414800; Resources Realized From Borrowing Authority; Debit
+414900; Borrowing Authority Carried Forward; Debit
+415000; Reappropriations - Transfers-In; Debit
+415100; Actual Capital Transfers to the General Fund of the Treasury, Current-Year Authority; Credit
+415200; Actual Capital Transfers to the General Fund of the Treasury, Prior-Year Balances; Credit
+415300; Transfers of Contract Authority - Nonallocation; Debit
+415400; Appropriation To Liquidate Contract Authority-Nonallocation-Transferred; Debit
+415700; Authority Made Available From Receipt or Appropriation Balances Previously Precluded From Obligation; Debit
+415800; Authority Made Available From Offsetting Collection Balances Previously Precluded From Obligation; Debit
+416000; Anticipated Transfers-Current-Year Authority; Debit
+416500; Allocations of Authority-Anticipated From Invested Balances; Debit
+416600; Allocations of Realized Authority -To Be Transferred From Invested Balances; Debit
+416700; Allocations of Realized Authority - Transferred From Invested Balances; Debit
+416800; Allocations of Realized Authority Reclassified -Authority To Be Transferred From Invested Balances - Temporary Reduction; Debit
+417000; Transfers - Current-Year Authority; Debit
+417100; Nonallocation Transfers of Invested Balances - Receivable; Debit
+417200; Nonallocation Transfers of Invested Balances - Payable; Credit
+417300; Nonallocation Transfers of Invested Balances - Transferred; Debit
+417500; Allocation Transfers of Current - Year Authority for Noninvested Accounts; Debit
+417600; Allocation Transfers of Prior - Year Balances; Debit
+418000; Anticipated Transfers - Prior - Year Balances; Debit
+418300; Anticipated Balance Transfers - Unobligated Balances - Legislative Change of Purpose; Debit
+419000; Transfers - Prior-Year Balances; Debit
+419100; Balance Transfers - Extension of Availability Other Than Reappropriations; Debit
+419200; Balance Transfers - Unexpired to Expired; Debit
+419300; Balance Transfers - Unobligated Balances - Legislative Change of Purpose; Debit
+419500; Transfer of Obligated Balances; Debit
+419600; Balance Transfer-In-Expired to Expired; Debit
+419700; Balance Transfer-Out-Expired to Expired; Credit
+419900; Transfer of Expired Expenditure Transfers-Receivable; Debit
+420100; Total Actual Resources-Collected; Debit
+420800; Adjustment to Total Resources - Disposition of Canceled Payables; Credit
+421000; Anticipated Reimbursements and Other Income; Debit
+421200; Liquidation of Deficiency - Offsetting Collections; Debit
+421500; Anticipated Expenditure Transfers from Trust Funds; Debit
+422100; Unfilled Customer Orders Without Advance; Debit
+422200; Unfilled Customer Orders With Advance; Debit
+422500; Expenditure Transfers from Trust Funds - Receivable; Debit
+423000; Unfilled Customer Orders Without Advance - Transferred; Debit
+423100; Unfilled Customer Orders With Advance - Transferred; Credit
+423200; Appropriation Trust Fund Expenditure Transfers - Receivable - Transferred; Debit
+423300; Reimbursements and Other Income Earned -Receivable-Transferred; Debit
+423400; Other Federal Receivables - Transferred; Debit 
+425100; Reimbursements and Other Income Earned - Receivable; Debit
+425200; Reimbursements and Other Income Earned - Collected; Debit 
+425300; Prior - Year Unfilled Customer Orders With Advance - Refunds Paid; Debit
+425500; Expenditure Transfers from Trust Funds - Collected; Debit
+426000; Actual Collections of "governmental-type" Fees; Debit
+426100; Actual Collections of Business - Type Fees; Debit
+426200; Actual Collections of Loan Principal; Debit
+426300; Actual Collections of Loan Interest; Debit
+426400; Actual Collections of Rent; Debit
+426500; Actual Collections From Sale of Foreclosed Property; Debit
+426600; Other Actual Business - Type Collections From Non-Federal Sources; Debit
+426700; Other Actual "governmental-type" Collections From Non-Federal Sources; Debit
+427100; Actual Program Fund Subsidy Collected; Debit
+427300; Interest Collected From Treasury; Debit 
+427500; Actual Collections From Liquidating Fund; Debit
+427600; Actual Collections From Financing Fund; Debit
+427700; Other Actual Collections - Federal; Debit
